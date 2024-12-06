@@ -1,0 +1,7 @@
+Mean Shift Clustering
+    rastgele nokta seçer yarıçap içerisine kaç nokta düştüğüne bakar 
+    noktaların arttığı yerde nokta konsantrasyonu tespit eder ve öbeklemeye başlar
+    veri noktalarının etrafında bir kernel (çekirdek) fonksiyonu kullanarak yoğunluğu ölçer
+    Genellikle, Gaussian çekirdek fonksiyonu kullanılır 
+    Kernel, belirli bir veri noktasının etrafında bir "bölge" tanımlar
+    görüntü işleme, nesne tespiti, biyoinformatik ve veri analizi kullanılır

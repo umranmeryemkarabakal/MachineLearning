@@ -1,0 +1,19 @@
+K-NN
+- Anlaması basit, hızlı ve verimli.
+- Komşuların k sayısını doğru seçmek gerekir.
+
+SVM
+- Sonuca ulaşma performansı iyi, aykırı değerler hakkında önyargılı değil, aşırı öğrenmeye (overfitting) duyarlı değildir.
+- Doğrusal olmayan problemler için uygun değildir, yüksek değerdeki özellikler için en iyi seçenek değildir.
+
+Kernel SVM
+- Doğrusal olmayan problemlerde yüksek performanslıdır, aykırı değerler hakkında hassas değil, aşırı öğrenmeye (overfitting) duyarlı değildir.
+- Yüksek değerdeki özellikler için en iyi seçenek değil, daha karmaşık.
+
+Naive Bayes
+- Verimli, aykırı değerler hakkında önyargılı değil, doğrusal olmayan problemler üzerinde çalışır, olasılıksal yaklaşımdır.
+- Özelliklerin aynı istatistiksel anlamlılığa sahip olduğu varsayımına dayanır.
+
+Karar Ağacı Sınıflaması
+- Yorumlama, özellik ölçeklendirmesine gerek yoktur, hem doğrusal hem de doğrusal olmayan problemler üzerinde çalışır.
+- Çok küçük veri kümeleri üzerinde zayıf sonuçlar, aşırı öğrenme (overfitting) kolaylıkla gerçekleşebilir.

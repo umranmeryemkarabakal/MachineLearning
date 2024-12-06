@@ -1,0 +1,20 @@
+Gaussian Mixture Models (GMM)
+    bir veri kümesini birden fazla Gaussian dağılımı ile modeller 
+    n elemanlı uzayda noktaları çan eğrisine uydurmaya çalışır
+    Her bir Gaussian bileşeni, verilerin belirli bir alt kümesini temsil eder ve toplamda veri kümesinin dağılımını anlamak için kullanılır
+
+Kuantum Hesaplama
+    kuantum bitleri -qubit- kullanarak hesaplama yapmayı sağlayan bir bilgi işlem paradigmalarıdır
+    Kuantum bilgisayarları hesaplamaları klasik bilgisayarlardan çok daha hızlı yapabilir
+
+Expectation-Maximization (EM)
+    modelin gizli değişkenlerini (örneğin, hangi verilerin hangi Gaussian bileşenine ait olduğunu) ve model parametrelerini (ortalama, varyans, karışım oranları vb.) iteratif olarak tahmin eder.
+    Expectation (E) Aşaması: Mevcut parametrelerle gözlemlenen verilerden gizli değişkenlerin beklenen değerlerini hesaplar.
+    Maximization (M) Aşaması: E aşamasında hesaplanan beklenen değerleri kullanarak model parametrelerini günceller.
+
+Quantum Gaussian Mixture Models (QGMM)
+    öbekleme yaptıktan sonra kalan değerleri olasılıksal olarak analizler
+    karmaşık veri yapılarının ve ilişkilerinin modellenmesinde daha verimlidir.
+    görüntü işleme, ses tanıma, biyoinformatik ve finansal modelleme gibi alanlarda kullanılır
+
+
